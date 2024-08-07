@@ -1,0 +1,15 @@
+
+.container{
+    border: 3px solid rgb(239, 247, 3);
+    margin: 60px auto;
+    padding: 15px;
+    border-radius:16px;
+    background-color: rgb(144, 101, 235);
+}
+.btn{
+    width: 100%;
+    
+}
+.bg-primary:hover{
+    background-color: brown;
+}
